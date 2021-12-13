@@ -1,0 +1,27 @@
+04:08:34 06 November 2021	Debug	Debug was done.
+04:08:34 06 November 2021	Error	Error, error, error
+04:08:34 06 November 2021	Trace	trace
+04:08:43 06 November 2021	Debug	Debug was done.
+04:08:43 06 November 2021	Error	Error, error, error
+04:08:43 06 November 2021	Trace	trace
+04:10:34 06 November 2021	Debug	Debug was done.
+04:10:34 06 November 2021	Error	Error, error, error
+04:10:34 06 November 2021	Trace	trace
+04:11:36 06 November 2021	Debug	Debug was done.
+04:11:36 06 November 2021	Error	Error, error, error
+04:11:36 06 November 2021	Trace	trace
+05:10:34 06 November 2021	Debug	Debug was done.
+05:10:34 06 November 2021	Error	Error, error, error
+05:10:34 06 November 2021	Trace	trace
+05:12:35 06 November 2021	Debug	Debug was done.
+05:12:35 06 November 2021	Error	Error, error, error
+05:12:35 06 November 2021	Trace	trace
+05:15:35 06 November 2021	Debug	Debug was done.
+05:15:35 06 November 2021	Error	Error, error, error
+05:15:35 06 November 2021	Trace	trace
+05:18:19 06 November 2021	Debug	Debug was done.
+05:18:19 06 November 2021	Error	Error, error, error
+05:18:19 06 November 2021	Trace	trace
+05:27:16 06 November 2021	Debug	Debug was done.
+05:27:16 06 November 2021	Error	Error, error, error
+05:27:16 06 November 2021	Trace	trace
